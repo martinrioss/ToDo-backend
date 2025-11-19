@@ -25,7 +25,7 @@ cd todo-api-express
 npm install
 #### 3. Ejecutar el Servidor:
 npm start
-#Herramientas y Modelos Utilizados
+# Herramientas y Modelos Utilizados
 | Herramienta (Asistente) | Modelo de IA Utilizado |
 | :--- | :--- |
 | **Gemini** | **[Gemini Flash 2.5]** |
