@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Hacer la compra",
+        "description": "Comprar leche y pan",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Terminar el API",
+        "description": "Implementar todos los endpoints CRUD",
+        "completed": false
+    }
+]
